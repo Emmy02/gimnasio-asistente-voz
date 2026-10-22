@@ -28,12 +28,10 @@ source .venv/bin/activate
 
 Si la dirección del túnel cambia, pégala en Dialogflow → Fulfillment → URL y guarda.
 
-## Los 3 usuarios de prueba
+## Usuario de prueba
 
 | Código | Socio | Resultado |
 | --- | --- | --- |
 | `SOC-10234` | Enmanuel Alejandro (Premium) | Puede reservar |
-| `SOC-20871` | Javier Núñez (Básico) | "Tu plan no incluye clases dirigidas" |
-| `SOC-30455` | Lucía Ferrer (Plus, impagado) | "Tu cuota tiene un pago pendiente" |
 
 Reserva de ejemplo para consultar: `RES-482913`.
