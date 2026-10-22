@@ -1,0 +1,37 @@
+{
+  "id": "b9b3dc12-8f25-54f7-bb91-264388aee54c",
+  "parentId": "a1c58253-1a7b-55dc-8fcf-a32049ef40a3",
+  "rootParentId": "a1c58253-1a7b-55dc-8fcf-a32049ef40a3",
+  "name": "reservar_clase - yes",
+  "auto": true,
+  "contexts": [
+    "ctx_reserva_en_curso",
+    "reservar_clase-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reservar_clase.reservar_clase-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

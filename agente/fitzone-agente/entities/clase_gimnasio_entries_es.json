@@ -1,0 +1,50 @@
+[
+  {
+    "value": "yoga",
+    "synonyms": [
+      "yoga",
+      "clase de yoga",
+      "hatha yoga"
+    ]
+  },
+  {
+    "value": "pilates",
+    "synonyms": [
+      "pilates",
+      "clase de pilates"
+    ]
+  },
+  {
+    "value": "spinning",
+    "synonyms": [
+      "spinning",
+      "ciclo indoor",
+      "bici",
+      "clase de spinning"
+    ]
+  },
+  {
+    "value": "crossfit",
+    "synonyms": [
+      "crossfit",
+      "cross fit",
+      "clase de crossfit"
+    ]
+  },
+  {
+    "value": "zumba",
+    "synonyms": [
+      "zumba",
+      "baile",
+      "clase de zumba"
+    ]
+  },
+  {
+    "value": "boxeo",
+    "synonyms": [
+      "boxeo",
+      "clase de boxeo",
+      "kickboxing"
+    ]
+  }
+]

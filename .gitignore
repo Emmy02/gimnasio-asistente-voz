@@ -1,0 +1,6 @@
+clave-dialogflow.json
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.gstack/

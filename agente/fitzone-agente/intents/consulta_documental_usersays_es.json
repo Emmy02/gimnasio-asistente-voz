@@ -1,0 +1,197 @@
+[
+  {
+    "id": "278cb97a-1a8b-4a49-8cc7-903094eb1bcf",
+    "data": [
+      {
+        "text": "¿Cuál es el horario del gimnasio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "64660f6b-d46f-4be3-84f5-933adbab2648",
+    "data": [
+      {
+        "text": "¿A qué hora abrís?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dae062af-cad2-47a3-8481-f5f4f3c7b62d",
+    "data": [
+      {
+        "text": "¿Qué normas hay en el gimnasio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8552b0f2-4db1-4742-993d-7c27fc9f5d70",
+    "data": [
+      {
+        "text": "¿Hay que llevar toalla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "997fcbde-861b-4805-a176-86421209b997",
+    "data": [
+      {
+        "text": "¿Puedo traer a mi perro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "23ade352-605b-4a32-ac47-474e9ba394e3",
+    "data": [
+      {
+        "text": "¿Cuánto cuesta el plan premium?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5c86a29b-fb6e-460a-baf9-877c9183962a",
+    "data": [
+      {
+        "text": "¿Qué incluye el plan plus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3561a360-1bf5-4c49-9e85-70ce25dc2f48",
+    "data": [
+      {
+        "text": "¿Cuál es la cuota de matrícula?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5cabc9f0-8be4-4c5a-81f0-41af62126e9f",
+    "data": [
+      {
+        "text": "¿Cómo me doy de baja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5e3e2cf5-219e-450c-b9c8-6180a123915f",
+    "data": [
+      {
+        "text": "¿Hasta cuándo puedo cancelar una reserva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7c346b88-78f9-4442-a41c-f56c5e70e9b6",
+    "data": [
+      {
+        "text": "¿Qué rutina me recomiendas para empezar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3353af1a-314d-45cb-b9c9-80ebb6d30437",
+    "data": [
+      {
+        "text": "¿Cuántas series hago de press de banca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b5948c55-e0ab-4b7f-9876-42d7332b80c4",
+    "data": [
+      {
+        "text": "¿Cuántos años hay que tener para entrar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a2bed416-c522-4739-8789-c669e7b274cf",
+    "data": [
+      {
+        "text": "¿Qué días hay clase de yoga?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1537ec13-e9d7-4184-9f38-c7d8d1641d00",
+    "data": [
+      {
+        "text": "¿Cuánto cuesta la tarjeta de acceso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

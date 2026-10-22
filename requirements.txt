@@ -1,0 +1,20 @@
+# Webhook
+fastapi
+uvicorn[standard]
+
+# Modelo de lenguaje
+google-genai
+python-dotenv
+
+# OCR
+pytesseract
+pillow
+
+# Voz
+google-cloud-dialogflow
+sounddevice
+numpy
+
+# Tests
+pytest
+httpx

@@ -1,0 +1,321 @@
+[
+  {
+    "id": "38f083d7-261c-46ab-b92b-dce560ace912",
+    "data": [
+      {
+        "text": "Quiero reservar una clase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f258b260-ae25-475e-87a4-b5546e2e618e",
+    "data": [
+      {
+        "text": "Reservar clase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "02c62a2b-7053-4423-a856-bf1fc08a5119",
+    "data": [
+      {
+        "text": "Quiero apuntarme a una clase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dc42f82f-b749-4e02-9295-44a986e68272",
+    "data": [
+      {
+        "text": "Quiero reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "14123480-62df-4fad-912a-a0882e95a67a",
+    "data": [
+      {
+        "text": "Apúntame a ",
+        "userDefined": false
+      },
+      {
+        "text": "pilates",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c8f2b8bd-07af-4247-adb0-b05049e5af63",
+    "data": [
+      {
+        "text": "Reserva ",
+        "userDefined": false
+      },
+      {
+        "text": "spinning",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "fecha",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6bee43e9-fcd3-4806-8557-875847b7b3ef",
+    "data": [
+      {
+        "text": "Quiero reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "zumba",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "viernes",
+        "alias": "fecha",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "266561df-0d84-4b7b-866a-22b03c7aee50",
+    "data": [
+      {
+        "text": "Quiero una plaza en ",
+        "userDefined": false
+      },
+      {
+        "text": "crossfit",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c5c36a15-7d41-49a6-a6ab-c433685c5a29",
+    "data": [
+      {
+        "text": "Me gustaría reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "boxeo",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "jueves",
+        "alias": "fecha",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "20:30",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "58d007cc-1a24-42ed-8fad-8efc3808c803",
+    "data": [
+      {
+        "text": "Reserva ",
+        "userDefined": false
+      },
+      {
+        "text": "yoga",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " el ",
+        "userDefined": false
+      },
+      {
+        "text": "lunes",
+        "alias": "fecha",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "7 de la tarde",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a3ce09e6-dece-49ae-a7a2-bbac5a648329",
+    "data": [
+      {
+        "text": "Apúntame a ",
+        "userDefined": false
+      },
+      {
+        "text": "spinning",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " mañana a las ",
+        "userDefined": false
+      },
+      {
+        "text": "7:30",
+        "alias": "hora",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "12b9eb79-d8e2-4eb7-8f1a-f18b838235d8",
+    "data": [
+      {
+        "text": "Necesito reservar una clase de ",
+        "userDefined": false
+      },
+      {
+        "text": "pilates",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " mi código es ",
+        "userDefined": false
+      },
+      {
+        "text": "SOC-10234",
+        "alias": "codigo_socio",
+        "meta": "@codigo_socio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "db8135d5-b83b-49f0-86a4-d8c7ed76d706",
+    "data": [
+      {
+        "text": "Quiero reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "zumba",
+        "alias": "clase",
+        "meta": "@clase_gimnasio",
+        "userDefined": true
+      },
+      {
+        "text": " mi número de socio es ",
+        "userDefined": false
+      },
+      {
+        "text": "10234",
+        "alias": "codigo_socio",
+        "meta": "@codigo_socio",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

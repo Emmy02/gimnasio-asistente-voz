@@ -1,0 +1,92 @@
+{
+  "horario_clases.png": {
+    "texto": "FitZone Gimnasio\n\nHorario semanal de clases dirigidas\n\nRef. FZ-HOR-2026-03\n\nDía Hora Clase. Sala Plazas :\n“Lunes o | 19:00 | Yoga | Sala 1 | 15\n\nLunes 07:30 Spinning Sala2 20 :\nLunes | 20:30 ] Boxeo . | Box | 12 | |\n“Martes 18:00 Pilates o salat 15.\nMartes 20:00 Crossfit - Box 12\nMiércoles 19:00 Yoga Salal 15\n“Miércoles 07:30 Spinning  Salaz 20 |\n“Miércoles 18:30. Zumba Sala2 25\n“Jueves 18:00 Pilates Sala 1 15 |\nJueves 20:00 Crossfit - Box 12 |\nJueves 20:30 Boxeo Box 12 |\nViernes 07:30 Spinning  Sala2 -20 |\nViernes : 18:30 Zumba o Sala 2 | 25 |\nSábado 10:00 Yoga Salat 15\nClases incluidas en los planes Plus y Premium.\n\nReserva con la app o llamando al 912 345 678.",
+    "campos": {
+      "referencia": [
+        "FZ-HOR-2026-03"
+      ],
+      "fecha": [],
+      "importe": [],
+      "hora": [
+        "19:00",
+        "07:30",
+        "20:30",
+        "18:00",
+        "20:00",
+        "19:00",
+        "07:30",
+        "18:30",
+        "18:00",
+        "20:00",
+        "20:30",
+        "07:30",
+        "18:30",
+        "10:00"
+      ],
+      "telefono": [
+        "912 345 678"
+      ],
+      "valido": true
+    }
+  },
+  "normativa_instalaciones.png": {
+    "texto": "FitZone Gimnasio\n\nNormativa de uso de las instalaciones\n\nRef. FZ-NOR-2026-01\n\nVigente desde el 01/09/2026.\n\n1. Es obligatorio usar toalla en la sala de máquinas.\n\n2. Se debe llevar calzado deportivo limpio de suela blanda.\n\n3. La edad mínima de acceso es de 16 años. Los menores de\n18 años necesitan autorización firmada por su tutor.\n\n4. No se permite el acceso con mascotas.\n\n5. En la piscina es obligatorio el gorro de baño y la ducha previa.\n\n6. Las taquillas se vacían cada noche a las 23:00. El gimnasio\nno se hace responsable de los objetos olvidados.\n\n7. Horario: lunes a viernes de 07:00 a 22:30, sábados de 09:00\na 20:00 y domingos y festivos de 09:00 a 14:00.\n\nReservas de clases dirigidas\n\n- Se puede reservar con un máximo de 14 días de antelación.\n\n- Se puede cancelar hasta 2 horas antes de la clase.\n\n- Tres ausencias sin avisar en 30 días bloquean las reservas\ndurante 7 días.\n\nReposición de tarjeta de acceso: 5,00 €.",
+    "campos": {
+      "referencia": [
+        "FZ-NOR-2026-01"
+      ],
+      "fecha": [
+        "01/09/2026"
+      ],
+      "importe": [
+        "5,00 €"
+      ],
+      "hora": [
+        "23:00",
+        "07:00",
+        "22:30",
+        "09:00",
+        "20:00",
+        "09:00",
+        "14:00"
+      ],
+      "telefono": [],
+      "valido": true
+    }
+  },
+  "plan_entrenamiento.png": {
+    "texto": "FitZone Gimnasio\n\nPlan de entrenamiento de iniciación\n\nRef. FZ-ENT-2026-04\n\nRutina de fuerza para principiantes: 3 días por semana.\n\nDescansa un día entre sesiones.\n\nDía Ejercicio Seriesxreps Descanso.\nLunes Sentadilla 3x2 Ss\n| Lunes | Prensa de piernas | -3x12 | 90s .\n“Miércoles. | Press de banca . o -3x10 | 90s Ñ |\nMiércoles | Remo con mancuerna o -3x10 o -90s | |\nViernes o Peso muerto rumano o -3x10 | | 120 s o |\nViernes Plancha o | :3x308 60s |\nCalienta 10 minutos antes de empezar.\n\nSube el peso solo cuando completes todas las repeticiones.",
+    "campos": {
+      "referencia": [
+        "FZ-ENT-2026-04"
+      ],
+      "fecha": [],
+      "importe": [],
+      "hora": [],
+      "telefono": [],
+      "valido": true
+    }
+  },
+  "tarifas_planes.png": {
+    "texto": "FitZone Gimnasio\n\nTarifas y planes de socio\n\nRef. FZ-TAR-2026-02\n\nTarifas válidas hasta el 31/12/2026.\n\nPlan Cuota . Incluye. uN\nBásico ] : 29,90 € al mes _Sala de máquinas o Vi\n| Plus o 39,90 € al mes y : Máquinas y clases dirigidas o |\nPremium 49,90 € al mes Clases, piscina y sauna ..oy\nMatrícula: 25,00 € (gratuita durante el mes de septiembre).\n\nNo hay permanencia mínima.\n\nPara darse de baja hay que avisar con 15 días de antelación.\n\nEl plan Básico no incluye clases dirigidas.\n\nAtención al socio: 912 345 678 |",
+    "campos": {
+      "referencia": [
+        "FZ-TAR-2026-02"
+      ],
+      "fecha": [
+        "31/12/2026"
+      ],
+      "importe": [
+        "29,90 €",
+        "39,90 €",
+        "49,90 €",
+        "25,00 €"
+      ],
+      "hora": [],
+      "telefono": [
+        "912 345 678"
+      ],
+      "valido": true
+    }
+  }
+}

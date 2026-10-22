@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0c3d158a-f7b8-4321-ab78-ae990808e4a9",
+    "data": [
+      {
+        "text": "Quiero consultar mi reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "02de3668-28c9-4c8a-9f00-905a0b09b597",
+    "data": [
+      {
+        "text": "Consulta una reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c6f04a47-f3af-453c-bf73-22789f4dea45",
+    "data": [
+      {
+        "text": "Comprueba mi reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2a6eb830-f3fa-4428-b203-a96c9c95ae01",
+    "data": [
+      {
+        "text": "¿Qué reserva tengo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "77dd4122-06f2-440a-93bc-ba4c774bd978",
+    "data": [
+      {
+        "text": "Consulta la reserva ",
+        "userDefined": false
+      },
+      {
+        "text": "RES-482913",
+        "alias": "codigo_reserva",
+        "meta": "@codigo_reserva",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "12bb605e-0a6d-488c-b907-e703be0a3d6d",
+    "data": [
+      {
+        "text": "Mi código de reserva es ",
+        "userDefined": false
+      },
+      {
+        "text": "RES-190377",
+        "alias": "codigo_reserva",
+        "meta": "@codigo_reserva",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c6c499d6-debc-4a80-a35f-4af2486b8f45",
+    "data": [
+      {
+        "text": "Mira la reserva ",
+        "userDefined": false
+      },
+      {
+        "text": "482913",
+        "alias": "codigo_reserva",
+        "meta": "@codigo_reserva",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3786a4c2-31bc-49bf-a66e-9df5787a9c1f",
+    "data": [
+      {
+        "text": "Quiero saber el estado de la reserva ",
+        "userDefined": false
+      },
+      {
+        "text": "RES-482913",
+        "alias": "codigo_reserva",
+        "meta": "@codigo_reserva",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

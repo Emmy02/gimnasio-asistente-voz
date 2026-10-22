@@ -1,0 +1,171 @@
+[
+  {
+    "id": "bdc74746-d203-42e1-b68b-a2159b35494e",
+    "data": [
+      {
+        "text": "Sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "90dea3ee-3a26-4b9a-87fa-d1c65299aa3f",
+    "data": [
+      {
+        "text": "Si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b83701d7-fb51-4d6e-b5ea-e14d7319541e",
+    "data": [
+      {
+        "text": "Sí, confirmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "47eaee4b-55a7-449b-847b-7002014a7857",
+    "data": [
+      {
+        "text": "Confirmo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "618ed36d-0754-42e9-88fb-a6f78ead6913",
+    "data": [
+      {
+        "text": "Vale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "494fa781-4167-4a18-9f61-ae443f5e893f",
+    "data": [
+      {
+        "text": "De acuerdo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ccbd1dbb-285c-4fe1-90f3-d1fccac7a1d3",
+    "data": [
+      {
+        "text": "Correcto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "87503ab8-e9d3-4137-9cb4-615798603355",
+    "data": [
+      {
+        "text": "Adelante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "635bbf9f-7d57-4b7d-9699-5dbfaa2350b8",
+    "data": [
+      {
+        "text": "Sí, reserva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2b8c267d-d2da-4469-a9c5-bfa212c38737",
+    "data": [
+      {
+        "text": "Perfecto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "493a1f72-de8d-471b-8e63-9ef4673d8727",
+    "data": [
+      {
+        "text": "Claro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7907c391-4483-45cb-b54d-82fafbfa1492",
+    "data": [
+      {
+        "text": "Por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "681147e8-6550-40a0-b01c-0daab8a4e87f",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

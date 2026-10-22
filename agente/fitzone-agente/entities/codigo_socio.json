@@ -1,0 +1,9 @@
+{
+  "id": "7a9a9bc2-bf99-5d78-9da1-7e5450bc626f",
+  "name": "codigo_socio",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

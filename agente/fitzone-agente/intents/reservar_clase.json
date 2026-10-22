@@ -1,0 +1,134 @@
+{
+  "id": "a1c58253-1a7b-55dc-8fcf-a32049ef40a3",
+  "name": "reservar_clase",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ctx_reserva_en_curso",
+          "lifespan": 5
+        },
+        {
+          "name": "reservar_clase-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "99d8e52b-ffe9-5e7b-8f13-eb6c2d6ff0a2",
+          "name": "clase",
+          "required": true,
+          "dataType": "@clase_gimnasio",
+          "value": "$clase",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Qué clase quieres reservar? Tenemos yoga, pilates, spinning, crossfit, zumba y boxeo."
+            },
+            {
+              "lang": "es",
+              "value": "¿A qué clase te apunto?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4fb04b9e-1b04-5835-9652-003db3fa725c",
+          "name": "fecha",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$fecha",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué día?"
+            },
+            {
+              "lang": "es",
+              "value": "¿Qué día quieres ir?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ea0c5d9f-adec-57a2-8b4d-aef02b8dd7bb",
+          "name": "hora",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$hora",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿A qué hora?"
+            },
+            {
+              "lang": "es",
+              "value": "¿A qué hora es la clase?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a2eff94b-ddc5-5803-90a5-d05c00c468ba",
+          "name": "codigo_socio",
+          "required": true,
+          "dataType": "@codigo_socio",
+          "value": "$codigo_socio",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es tu código de socio?"
+            },
+            {
+              "lang": "es",
+              "value": "Dime tu código de socio, por favor."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

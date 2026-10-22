@@ -1,0 +1,56 @@
+{
+  "id": "d1e1427b-1fa5-5662-b6fb-53b6b0e87b93",
+  "name": "consultar_reserva",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3bc31a19-5767-5a44-8f9c-d5bee1eaa124",
+          "name": "codigo_reserva",
+          "required": true,
+          "dataType": "@codigo_reserva",
+          "value": "$codigo_reserva",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es el código de la reserva?"
+            },
+            {
+              "lang": "es",
+              "value": "Dime el código de reserva, por favor."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

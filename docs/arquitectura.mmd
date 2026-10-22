@@ -1,0 +1,8 @@
+graph LR
+  U["Usuario (voz)"] <-->|"micrófono y altavoz"| C["cliente_voz.py"]
+  C <-->|"audio"| D["Dialogflow ES<br/>STT y TTS nativos<br/>5 intenciones + contexto"]
+  D <-->|"HTTPS /webhook"| W["Webhook FastAPI<br/>regex y lógica de negocio"]
+  W <-->|"contexto = texto OCR"| L["Gemini (LLM)"]
+  DOC["Documentos<br/>4 imágenes"] -->|"una sola vez"| O["OCR Tesseract + regex"]
+  O --> J[("datos/documentos_ocr.json")]
+  J --> W

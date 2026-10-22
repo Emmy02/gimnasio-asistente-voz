@@ -1,0 +1,34 @@
+{
+  "description": "Asistente de voz de FitZone: reserva de clases y consulta documental",
+  "language": "es",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "FitZone",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://load-lawsuit-father-distributed.trycloudflare.com/webhook",
+    "username": "",
+    "headers": {
+      "ngrok-skip-browser-warning": "true",
+      "X-Tunnel-Skip-AntiPhishing-Page": "true"
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

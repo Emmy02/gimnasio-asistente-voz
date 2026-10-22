@@ -1,0 +1,40 @@
+{
+  "id": "b6e7d20a-6833-5f97-a466-5666b271bd90",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "<speak>Hola, soy el asistente de FitZone. <break time=\"300ms\"/> Puedo reservarte una clase, consultar una reserva o resolver dudas sobre normas, tarifas y horarios. <break time=\"400ms\"/> ¿Qué necesitas?</speak>",
+            "<speak>¡Hola! Soy el asistente de FitZone. <break time=\"300ms\"/> ¿Quieres reservar una clase o tienes alguna pregunta?</speak>"
+          ]
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

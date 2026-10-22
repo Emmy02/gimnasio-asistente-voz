@@ -1,0 +1,45 @@
+{
+  "id": "55e3b317-8f7d-5d03-bf51-dfeaa8b3e340",
+  "parentId": "a1c58253-1a7b-55dc-8fcf-a32049ef40a3",
+  "rootParentId": "a1c58253-1a7b-55dc-8fcf-a32049ef40a3",
+  "name": "reservar_clase - no",
+  "auto": true,
+  "contexts": [
+    "ctx_reserva_en_curso",
+    "reservar_clase-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reservar_clase.reservar_clase-no",
+      "affectedContexts": [
+        {
+          "name": "ctx_reserva_en_curso",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": "",
+          "speech": [
+            "<speak>De acuerdo, no he reservado nada. <break time=\"300ms\"/> Si quieres, empezamos otra reserva. ¿Necesitas algo más?</speak>"
+          ]
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

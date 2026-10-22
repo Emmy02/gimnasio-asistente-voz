@@ -1,0 +1,9 @@
+{
+  "id": "5859f720-1157-523f-9763-f0e4d9b88c0f",
+  "name": "codigo_reserva",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

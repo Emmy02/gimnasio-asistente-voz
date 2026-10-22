@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1e8cc731-1eb8-4083-aeea-6d89c1ae859a",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7726d139-6997-4d23-9131-640cecb4f8bd",
+    "data": [
+      {
+        "text": "No gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ac332c58-923e-4e0f-8e84-fdbba6562180",
+    "data": [
+      {
+        "text": "Mejor no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8b1764ef-310c-4da8-8ef9-1ab0f311f64f",
+    "data": [
+      {
+        "text": "Cancela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5acf17f6-d105-4b04-b99f-d097cfe1d876",
+    "data": [
+      {
+        "text": "Déjalo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "969bb861-52cc-4d7d-9dec-969cb7cdd58f",
+    "data": [
+      {
+        "text": "No lo confirmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2ba871e2-faba-44eb-a308-a2cc0b4ef365",
+    "data": [
+      {
+        "text": "No, está mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1f7601fe-95a1-4d92-bbc8-cb389d810952",
+    "data": [
+      {
+        "text": "Cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a3b2e708-65db-426b-9bb8-af463cbfbb20",
+    "data": [
+      {
+        "text": "Olvídalo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]
