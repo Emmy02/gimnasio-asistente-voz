@@ -24,7 +24,7 @@ load_dotenv()
 PROJECT_ID = os.environ["DIALOGFLOW_PROJECT_ID"]
 IDIOMA = "es"
 FS = 16000          # Dialogflow espera 16 kHz para LINEAR_16
-SEGUNDOS = 6
+SEGUNDOS = 4
 VOZ = os.environ.get("VOZ_TTS", "es-ES-Neural2-A")   # voz neuronal: mas natural que la estandar
 
 # Un SESSION_ID por conversacion (no por frase): los contextos viven colgados de el.
