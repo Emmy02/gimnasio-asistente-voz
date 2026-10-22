@@ -35,3 +35,7 @@ Si la dirección del túnel cambia, pégala en Dialogflow → Fulfillment → UR
 | `SOC-10234` | Enmanuel Alejandro (Premium) | Puede reservar |
 
 Reserva de ejemplo para consultar: `RES-482913`.
+
+## Vídeo de demostración
+
+La grabación de la conversación por voz está en la carpeta [`video/`](video/).
